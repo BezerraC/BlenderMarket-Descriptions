@@ -185,6 +185,13 @@
 <h5 style="font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;margin-top: 15px;"><b>Here is another good one:</b></h5>
 <h5 style="margin-top:10px;font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">FormatSwap - Texture Converter <br></br> <a style="color:#00D5C7;" href="https://blendermarket.com/products/formatswap-texture-converter">https://blendermarket.com/products/formatswap-texture-converter</a></h5>
 
+<div style="margin-top:80px;display:flex; justify-content:center; align-items:center;">
+<img src="https://yourimageshare.com/ib/EceLAmmrOk.webp">
+</div>
+<div style="margin-bottom:20px;margin-top:10px;display:flex; justify-content:center; align-items:center;">
+<p>© Copyright 2023</p>
+</div>
+
 <span style="color:transparent;
   border-bottom: 5px solid transparent;
   border-image: linear-gradient(to bottom right, #00D5C7 0% ,#01857c 100%);
