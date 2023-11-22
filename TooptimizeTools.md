@@ -1,5 +1,5 @@
 <div style="max-width: 728px; padding: 20px;">
-<div style="padding:0 0 0 0;background-position:top;background-color: #0e0a06"><div>
+<div style="padding:0 0 0 0;background-position:top;background-color: #0e0a06;"><div>
 <h1 style="font-size:70px;padding:10px 0 0 0;color:white;margin:0px 0px 0px 0px;text-align:center;padding-left:2%;padding-right:2%;"><a style="color: #00D5C7;" href="https://www.youtube.com/playlist?list=PL0RqAjByAphHoCDKWy6OU4BwB7hTi8lo_">V1.2 Released!!!</a></h1>
 
 <h5 style="font-size:20px;font-weight:bold;text-align:center;padding-left:2%;padding-right:2%;">* You can check the update log on the documentation page</h5>
@@ -7,7 +7,7 @@
 <h1 style="font-size:50px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">What is ToOptimize Tools?
 </h1>
 
-<h5 style="font-size:23px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">ToOptmize Tools is an addon for Blender that will help you to optimize your scene in a simple way with very useful tools. The addon will show you what is making your scene heavier, comparing each <span style="color: #00D5C7;font-weight:bold;">object</span>, <span style="color: #00D5C7; font-weight:bold;">collection</span>, <span style="color: #00D5C7;font-weight:bold;">texture</span>, and <span style="color: #00D5C7;font-weight:bold;">material</span> in your scene!</h5>
+<h5 style="font-size:23px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%; color: white;">ToOptmize Tools is an addon for Blender that will help you to optimize your scene in a simple way with very useful tools. The addon will show you what is making your scene heavier, comparing each <span style="color: #00D5C7;font-weight:bold;">object</span>, <span style="color: #00D5C7; font-weight:bold;">collection</span>, <span style="color: #00D5C7;font-weight:bold;">texture</span>, and <span style="color: #00D5C7;font-weight:bold;">material</span> in your scene!</h5>
 
 <div align="center" style="margin-top: 25px;">
     <img  style="border: 2px solid #01857c;border-radius: 5px; width: 90%;align:center;" src="https://s3.amazonaws.com/markets-rails/uploads%2F1612409684824-1.gif" style="width:616px;" class="fr-fic fr-dib">
@@ -16,8 +16,6 @@
 <div align="center" style="margin-top: 25px;">
     <img  style="border: 2px solid #01857c;border-radius: 5px; width: 90%;align:center;" src="https://s3.amazonaws.com/markets-rails/uploads%2F1612409660458-3.gif" style="width:616px;" class="fr-fic fr-dib">
 </div>
-
-
 
 <h1 style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">Features
 </h1>
@@ -31,7 +29,6 @@
     <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><a style="color:#C2CCCC;" href="#Find_in_Scene_Tool">Find in Scene Tool</a></li>
     <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><a style="color:#C2CCCC;" href="#Extra_Useful_Tools">Extra Useful Tools</a></li>
 </ul>
-
 
 <h1 id="3D_View_Analyzer" style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">3D View Analyzer
 </h1>
@@ -52,8 +49,6 @@
     <img  style="border: 2px solid #01857c;border-radius: 5px; width: 90%;align:center;" src="https://s3.amazonaws.com/markets-rails/uploads%2F1619473927065-default.png" style="width:616px;" class="fr-fic fr-dib">
     </div>
 </ul>
-
-
 
 <h1 id="Collection_Analyzer" style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">Collection Analyzer
 </h1>
@@ -76,7 +71,6 @@
 </div>
 </ul>
 
-
 <h1 id="Material_Benchmark" style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">Material Benchmark Tool
 </h1>
 <h5 style="margin-top: 15px;font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">Ever wondered what material may be costing you a lot of memory space? but you have no idea how to check it?</h5>
@@ -89,7 +83,6 @@
 <h5 style="margin-top: 15px;font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">This tool will run a benchmark in each material in your object/scene and will return you a list of tested materials with its used memory.</h5>
 <h5 style="margin-top: 15px;font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">This tool will also return the total memory usage and other useful information.</h5>
 <h5 style="margin-top: 15px;font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">And now you can easily select and try to optimize heavy materials with our next tool...</h5>
-
 
 <h1 id="Image_Data_Analyzer" style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">Image Analyzer/Resizer
 </h1>
@@ -112,7 +105,6 @@
 <h5 style="margin-top: 15px;font-size:19px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">The Addon will generate new resized images and will auto-replace the old ones in the current file only.</h5>
 <h5 style="margin-top: 15px;font-size:19px;font-weight:bold;text-align:left;padding-left:2%;padding-right:2%;">Note: This feature is to resize only! but we have another complete Addon for texture conversion and resizing, with advanced filtering, batch converting, and more! you can <a style="color:#00D5C7;">check it here</a>.</h5>
 
-
 <h1 id="Find_in_Scene_Tool" style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">Find in Scene Tool
 </h1>
 <h5 style="margin-top: 15px;font-size:19px;font-weight:bold;text-align:left;padding-left:2%;padding-right:2%;">Find the object with more vertices in your scene!</h5>
@@ -127,7 +119,7 @@
     <li><img style="width: 18px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp">Sometimes you have a finished scene and have to create a lighter one, and subdivision modifiers are the worst in this case. Would you like to find all the objects with subdivision modifiers from your scene with one click? so here is one more button.</li>
 </ul>
 <h5 style="margin-top: 15px;font-size:19px;font-weight:bold;text-align:left;padding-left:2%;padding-right:2%;">Find objects with more than a specific number of vertices!</h5>
-</div>
+
 <ul style="font-size:19px;font-weight:regular;list-style-type: none; margin: 0; padding:18px;">
     <li><img style="width: 18px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp">The addon will select all objects with more vertices than you selected.</li>
 </ul>
@@ -146,21 +138,57 @@
     </div>
 </ul>
 
+<h1 id="Find_in_Scene_Tool" style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">The add-on also has some tools that will make your 3d modeling life better!
+</h1>
 
-<div style="padding:16px 0 16px 0;background-color:#333333;color:#eee;text-align:center;margin:40px 6% 0 6%;">
-<img src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp" title="Image - ZnjcSlkk5y - yourimageshare.com" alt="Image - ZnjcSlkk5y - yourimageshare.com">
+<h5 style="margin-top: 15px;font-size:19px;font-weight:bold;text-align:left;padding-left:2%;padding-right:2%;">A  Material Slots Cleaner (That Works with Huge Scenes)</h5>
 
-<img src="https://yourimageshare.com/ib/ZnjcSlkk5y" alt="" class="fr-fic fr-dii"><h2 id="ff" style="padding:16px 0 0 0;color:white;margin:0 0 0 0;text-align:center;">Features</h2>
-<br style="text-align:left;padding:0 0 0 0;"><a href="https://hardops-manual.readthedocs.io/en/latest/faq/#how-does-your-tool-stack-up-against-insert-tool-here">We pride ourselves</a> on versatility and control without UI interruption. Be the fastest you can be with just the right tool at the right time. And thanks to the power of Blender 2.8 you can work non-destructive longer and we are there for you from first click to final render.<br><div style="font-weight:bold;margin-bottom:8px;"><br></div>
+<ul style="font-size:19px;font-weight:regular;list-style-type: none; margin: 0; padding:18px;">
+    <li><img style="width: 18px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp">With one click, delete all materials that are in the material slots, but are not in use (Usually appear in objects imported from other software).</li>
+</ul>
+
+<h5 style="margin-top: 15px;font-size:19px;font-weight:bold;text-align:left;padding-left:2%;padding-right:2%;">Just delete Subdivision Modifiers from any object</h5>
+
+<ul style="font-size:19px;font-weight:regular;list-style-type: none; margin: 0; padding:18px;">
+    <li><img style="width: 18px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp">Do you just want to delete all subdivision modifiers in your scene? okay.
+</li>
+</ul>
+<h5 style="margin-top: 15px;font-size:19px;font-weight:bold;text-align:left;padding-left:2%;padding-right:2%;">Delete Empty collections</h5>
+
+<ul style="font-size:19px;font-weight:regular;list-style-type: none; margin: 0; padding:18px;">
+    <li><img style="width: 18px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp">The addon will clean your outline view removing unused collections!
+</li>
+</ul>
+
+<h1 style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 10px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">If you are working in one of these fields, this addon is for you:
+</h1>
+
+<ul style="font-size:22px;font-weight:regular;list-style-type: none; margin: 10px 0px 0px 0px ; padding-left:20px;">
+    <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><span style="color:#C2CCCC;" >Low Poly Modeling</span></li>
+    <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><span style="color:#C2CCCC;" >ArchViz Modeling</span></li>
+    <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><span style="color:#C2CCCC;" >High Poly Modeling </span></li>
+    <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><span style="color:#C2CCCC;">Animations </span></li>
+    <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><span style="color:#C2CCCC;">3D Web Visualization </span></li>
+    <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><span style="color:#C2CCCC;" >GLTF Workflow </span></li>
+    <li><img style="width: 20px; margin-right: 10px;" src="https://yourimageshare.com/ib/ZnjcSlkk5y.webp"><span style="color:#C2CCCC;" >Or if you just want a lighter scene for better-rendered performance</span></li>
+</ul>
+
+<h1 style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 10px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">Limitations:
+</h1>
+<ul style="font-size:22px;font-weight:regular;list-style-type: none; margin: 10px 0px 0px 0px ; padding-left:20px;">
+    <li><img style="width: 20px; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Grey_close_x.svg/512px-Grey_close_x.svg.png?20140617032513"><span style="color:#C2CCCC;" >Compatible with Windows OS only</span></li>
+   
+</ul>
+
+<h1 style="font-size:40px;padding:10 0 0 0;color:white;margin:50px 0px 0px 0px;text-align:left;padding-left:2%;padding-right:2%;">Looking for addons to optimize your scene?
+</h1>
+<h5 style="font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;margin-top: 15px;"><b>Here is another good one:</b></h5>
+<h5 style="margin-top:10px;font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">FormatSwap - Texture Converter <br></br> <a style="color:#00D5C7;" href="https://blendermarket.com/products/formatswap-texture-converter">https://blendermarket.com/products/formatswap-texture-converter</a></h5>
+
+<span style="color:transparent;
+  border-bottom: 5px solid transparent;
+  border-image: linear-gradient(to bottom right, #00D5C7 0% ,#01857c 100%);
+  border-image-slice: 1;
+  margin: 20px auto;">cgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgoutsetcgou</span>
+
 </div>
-
-
-
-
-</div>
-
-<div style="padding:16px 0 16px 0;background-color:#333333;color:#eee;text-align:center;margin:340px 6% 0 6%;">
-<img src="https://i.imgur.com/VWtjF6U.png" alt="" class="fr-fic fr-dii"><h2 style="padding:16px 0 0 0;color:white;margin:0 0 0 0;text-align:center;">Non-destructive or destructive... your choice</h2>
-<br style="text-align:left;padding:0 0 0 0;"><a href="https://hardops-manual.readthedocs.io/en/latest/faq/#how-does-your-tool-stack-up-against-insert-tool-here">We pride ourselves</a> on versatility and control without UI interruption. Be the fastest you can be with just the right tool at the right time. And thanks to the power of Blender 2.8 you can work non-destructive longer and we are there for you from first click to final render.<br><div style="font-weight:bold;margin-bottom:8px;"><br></div>
-</div>
-</div></div>
