@@ -184,14 +184,75 @@
 </h1>
 <h5 style="font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;margin-top: 15px;"><b>Here is another good one:</b></h5>
 <h5 style="margin-top:10px;font-size:21px;font-weight:regular;text-align:left;padding-left:2%;padding-right:2%;">FormatSwap - Texture Converter <br></br> <a style="color:#00D5C7;" href="https://blendermarket.com/products/formatswap-texture-converter">https://blendermarket.com/products/formatswap-texture-converter</a></h5>
+</br>
+<hr>
 
-<div style="margin-top:80px;display:flex; justify-content:center; align-items:center;">
-<img src="https://yourimageshare.com/ib/EceLAmmrOk.webp">
+ <div style="border-radius:25px;padding:15px;">  
+ <h1 style="color:white;font-size:40px;"><strong>CGoutset Add-ons</strong></h1>  
+ <div style="background-color:#151519;border-radius:20px;padding:15px;border: 2px solid #00D5C7;margin-bottom:30px;">    
+ <p style="color:white;font-size:24px;">❤<strong><i class="fa fa-heart"></i><span style="font-size:24px;">&nbsp;</span>
+ <span style="font-size:24px;">Dev fund contributor</span></strong>    </p>    
+ <p style="color:#8b8b8b;font-size:19px;">A portion of all CGoutset Addons sales is going back to the <a style="color:#00d5c7;" href="https://www.blender.org/foundation/" target="_blank">Blender Foundation</a>.</p>    
+ <p style=""><strong style="color:white;font-size:22px;">All Addons Fully&nbsp;</strong><font color="#ffffff"><b style="font-size:22px;">documented</b></font></p>    
+ <p style="color:#8b8b8b;font-size:19px;">All CGoutset Addons has an exclusive <a style="color:#00d5c7;" href="https://help.CGoutset.com/docs/">documentation page</a>.</p>    
+ <p style="color:white;font-size:22px;"><strong>Active support in all Addons</strong></p>    
+ <p style="color:#8b8b8b;font-size:19px;">Found a bug? We have a <a style="color:#00d5c7;" href="https://help.CGoutset.com/bug-report/">special page for it</a>! Got any questions or suggestions? just contact us!&nbsp;    </p>    
+ <p style="color:white;font-size:22px;"><strong>Free Updates Forever</strong></p>    
+ <p style="color:#8b8b8b;font-size:19px;">We are constantly updating all CGoutset addons with new features and fixes, and for all addons, it will be free forever.</p> 
+ </div>
+
+ <h1 style="color:white;font-size:40px;"><strong>Our Best Add-ons</strong></h1>
+
+<div style="display:flex;gap:10px;">
+ <div style="background-color:#151519;padding:0px 8px 8px 8px;height:auto;width:49%;display:block;border-radius:20px;margin-bottom:12px;">      
+ <h4 style="color:white;text-align:center;">ToOptimize Tools</h4>      
+ <img style="width:100%;" src="https://d1231c29xbpffx.cloudfront.net/store/product/162940/image/medium-9d3b9f3563fc1e76dfda7d681694645e.png?Expires=1621178598&amp;Signature=IUnI4gDGxoohouWpCFn4Ck2b5ukplchYUqNWh7jKvMaRTz2GxZwSqmps5MIcatuR7aEZZnxl0ODE3fDygUSupgnHznWMTPNLyduEdoW0U0saxBO6E~PDD7dfmSMkzfnqVq0XQQDGL8lI0uIRzESf2VGseRKsIPxn68UnnM4Xd1--GCEoJFp1Ji3SspcVQs1wPKhWQ-jXInaQOhc4S95baawMIJ2SFNHZBWILf7BjtyHuhKAFW6O1W9gWUTOwEochwHnsXERN629uY8qBPpNV-Ka9iXZ-lDeccIo-NYbhcmiCplKNzd~OhVSRlrhicP94eB0TDakZjiDL203H9x4dHw__&amp;Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ" class="fr-fic fr-dii"><a href="https://blendermarket.com/products/tooptimize-tools" style="border: 2px solid #00D5C7;color:#00D5C7;display:block;top:50%;left:50%;font-size:18px;padding:12px;border-radius:0px 0px 12px 12px;font-weight:bold;text-align:center;width:auto;margin-left:auto;margin-right:auto;margin-top:5px;" target="_blank">&nbsp;Check Now&nbsp;</a></div>    
+ 
+ <div style="background-color:#151519;padding:0px 8px 8px 8px;height:auto;width:49%;display:block;border-radius:20px;margin-bottom:12px;">      
+ <h4 style="color:white;text-align:center;">EasyLight</h4>      
+ <img style="width:100%;" src="https://d1231c29xbpffx.cloudfront.net/store/product/169077/image/5da0dcf49f85c051897702954e85c461.png?Expires=1647203968&amp;Signature=et4enmSb3-LN30sIy6~lBLEFJh~yJScEjlk5EjTgc-4umAzWyF~hH35YYVSgmq2sUFJBR1UM3oYdxCQrafmRJEAfimTrwThqLrcYV9SgxTbCsHHvMvo-srQz0Jbv~BjahZrYy2-vUuQpW6bgTlCAKjQC8qsfUWowSiKb0~P05ouMqOSBp2xsB9l2nHNzBZ4Pd1As7r0Rvc7wmeo5gJbJwZRRMVETN66NSqUGY7wNLM75EZ53uX61R3-w-SfB1eROu-DMQb7lUsHjIAZ~futEyR3fr-9SwWeEa0nvh-IXeWpv8uLcyk8OvpyIEFTtBVPyiyCz1IsTXY-zcQMWB9cFww__&amp;Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ" class="fr-fic fr-dii"><a href="https://blendermarket.com/products/easylight" style="border: 2px solid #00D5C7;color:#00D5C7;display:block;top:50%;left:50%;font-size:18px;padding:12px;border-radius:0px 0px 12px 12px;font-weight:bold;text-align:center;width:auto;margin-left:auto;margin-right:auto;margin-top:5px;" target="_blank">&nbsp;Check Now&nbsp;</a></div>    </div>
+ 
+<div style="display:flex;gap:10px;">
+ <div style="background-color:#151519;padding:0px 8px 8px 8px;height:auto;width:49%;display:block;border-radius:20px;margin-bottom:12px;">      
+ <h4 style="color:white;text-align:center;">MPalette Pro</h4>      
+ <img style="width:100%;" src="https://d1231c29xbpffx.cloudfront.net/store/product/164468/image/medium-2ce1ab80b8b30d03e6f0feb88501826d.jpg?Expires=1621180284&amp;Signature=bAcz3PBz0Zno5a8SF8dzsyw2k8EbqbnnUUH0eSkVc9FepCiPTr8dMW8teIH5o7f1uHuS6Ee64hIJnlESAJLg53adr-kx3-bt4UdvnzR5BIN8z093fE72pFJYHyV3gpEoY5QNzXA38pBCvDHOYpiAInJYC9A9TsngGDx5O1oikU89awLVfLO54XdsL6pq6syizW-U8SHern4sHb6x2APtRxTdynJ9DJzkd8rsBb1E-0KlPBXkCTWZb4QM2~qGEdSAMEBFI46QUYa4VOrFbxIfvcZfWCHP9ctKi2KWrbUqfxVuv3z9zSwisqIkyG7Pbgy4qXEV5SAnpZD7DANYa4-bWw__&amp;Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ" class="fr-fic fr-dii"><a href="https://blendermarket.com/products/mpalette-pro" style="border: 2px solid #00D5C7;color:#00D5C7;display:block;top:50%;left:50%;font-size:18px;padding:12px;border-radius:0px 0px 12px 12px;font-weight:bold;text-align:center;width:auto;margin-left:auto;margin-right:auto;margin-top:5px;" target="_blank">&nbsp;Check Now&nbsp;</a></div>    
+ 
+ <div style="background-color:#151519;padding:0px 8px 8px 8px;height:auto;width:49%;display:block;border-radius:20px;margin-bottom:12px;">      
+ <h4 style="color:white;text-align:center;">FormatSwap</h4>      
+ <img style="width:100%;" src="https://d1231c29xbpffx.cloudfront.net/store/product/163995/image/medium-4c637deca9187acb4cbeafcd68361762.png?Expires=1621180284&amp;Signature=aIhfb9XQO6tP8boUYEX6qit67AtNZTpjv5o~aaGmI5EVa7845Xx-TpQxKOtdKQP63CuACVcG3oniMdlsxNe1o8EX8uLAGrnGRxBhmSQsPhJOENTK7TJ0nsCOeXdNmZidVuj64asfkQ79VfKsqwSExSpm3nnO18yz2POaYl2OFLxFw8kvnBvQSIQABrOZE92glUR~3PhdXx5WZl8HhFnOWIlKdUXCXAla3kbqtufOByXPEwNy6dnUTnPcy-eEhz0a68uagWGSSd809PK~WByexs8Q1CfZ8Hee8GUqe2YE1m7p4HS1PD9E8okCbb6pZ6FPvztw0QKTdx75ygom-cKy6w__&amp;Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ" class="fr-fic fr-dii"><a href="https://blendermarket.com/products/formatswap-texture-converter" style="border: 2px solid #00D5C7;color:#00D5C7;display:block;top:50%;left:50%;font-size:18px;padding:12px;border-radius:0px 0px 12px 12px;font-weight:bold;text-align:center;width:auto;margin-left:auto;margin-right:auto;margin-top:5px;" target="_blank">&nbsp;Check Now&nbsp;</a></div>    </div>
+
+ <div style="display:flex;gap:10px;">
+ <div style="background-color:#151519;padding:0px 8px 8px 8px;height:auto;width:49%;display:block;border-radius:20px;margin-bottom:12px;">      
+ <h4 style="color:white;text-align:center;">VizPresets</h4>      
+ <img style="width:100%;" src="https://d1231c29xbpffx.cloudfront.net/store/product/163698/image/medium-cfc6906ee23ddf0017d66a818383a04a.png?Expires=1621180284&amp;Signature=E2cuSsINnQ3UkkqukUHOenAl6VNfsmlcpWjVm6MyW~txMWRTopSnnr2iojz~FMWVcM3yNd75yLk5GP9B8WdypncIfP5hiZibXJqKQL8zQhutKBaOCn4kNrDgiawft9qJC2ZGYYnI3-678DcxzAmsLzL5gB8uNvrE20xdM2-HqN0dpH2rMMQjG1JukGmkqlxMTYOPrA-I2m6N58eA7SOZ-QyYGGq4usr0vrcLD9f7oDjeTc5VDeR0DyDlSmJRo5Agm8pztijH~Qjw8annb6RBdzB8sN5OmvlNFA2h6xXmN4GueT7IJOASim~TW2cmJsIWkmsNvySBJHyKXvBSVONKig__&amp;Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ" class="fr-fic fr-dii"><a href="https://blendermarket.com/products/vizpresets" style="border: 2px solid #00D5C7;color:#00D5C7;display:block;top:50%;left:50%;font-size:18px;padding:12px;border-radius:0px 0px 12px 12px;font-weight:bold;text-align:center;width:auto;margin-left:auto;margin-right:auto;margin-top:5px;" target="_blank">&nbsp;Check Now&nbsp;</a></div>    
+ 
+ <div style="background-color:#151519;padding:0px 8px 8px 8px;height:auto;width:49%;display:block;border-radius:20px;margin-bottom:12px;">      
+ <h4 style="color:white;text-align:center;">Quick Scripts</h4>      
+ <img style="width:100%;" src="https://d1231c29xbpffx.cloudfront.net/store/product/167092/image/3b3ba2972ab7647e830afeee03bcd632.jpg?Expires=1628516852&amp;Signature=T1MMtcYzzoNxiSVdtlVGgsMSiaaVLcXrPuhELOzvyBx0qO-FQKiytHUnP1KPbB0Eqm4En8R2Zm9bRk5NSO2p4dluuRnpb-JLHYuX-2AvWVYueyYtNRgBVnK4LAMJEUG7WkAjODEGEE0D0IUH46-4hsyLENGolbHUoMV3EJ8xI0pERTbM5dt2geq9SAC2mB7VtC9ADel6Shm0v7ETf9dKowb6N~PQu1fjK93M8Z7Zx2bUBaq77YYxOeDvo9LFNeeRzjgNh4IllVnrzn12MCTeBOQJD5p9ldYrLBmgkaFFGcdLg3nlLyp4AEVUFLvFBVcEsfMeAcFxd4HYuFmxlSdCcQ__&amp;Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ" class="fr-fic fr-dii"><a href="https://blendermarket.com/products/quick-scripts" style="border: 2px solid #00D5C7;color:#00D5C7;display:block;top:50%;left:50%;font-size:18px;padding:12px;border-radius:0px 0px 12px 12px;font-weight:bold;text-align:center;width:auto;margin-left:auto;margin-right:auto;margin-top:5px;" target="_blank">&nbsp;Check Now&nbsp;</a></div>    </div>
+ 
+ <div style="display:flex;gap:10px;">
+ <div style="background-color:#151519;padding:0px 8px 8px 8px;height:auto;width:46%;display:block;border-radius:20px;margin-bottom:12px;">      
+ <h4 style="color:white;text-align:center;">Easy Backup</h4>      
+ <img style="width:100%;" src="https://d1231c29xbpffx.cloudfront.net/store/product/163155/image/medium-3c783acafe242a58a82a47541f2c3d1a.png?Expires=1621180284&amp;Signature=BLXzRTOtknows8YUee~QMYs9ytRw8ls9CaA~krK-M9rpJbeV~rijnEEdu55BfQB-EhArK8LkAcgBOp2tLETk1gXUC3zmkkKkGeqwe9a1DJBOAiKKPCahvGtY6Nu3NiR3ibFKWwKeUKRc1rHUqUi8gEFqVQ0bjqCZRznBASw8RVO5WXdlbkhKc5iHByYSGpJYd-vjSAGFL-EHbrv~RfGAVbhj3KPKxOk~jExb6oCrZa0b24itO7lpWO~BOF1-xmL1qt9Vh52AzIiSnIhzflWbXuCztmSdjgSAbGLEIDKlMFOz21iL0UnbeM~ZGPVzFWk2ysudhcGnj4Es7DiE615iCg__&amp;Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ" class="fr-fic fr-dii"><a href="https://blendermarket.com/products/easy-backup" style="border: 2px solid #00D5C7;color:#00D5C7;display:block;top:50%;left:50%;font-size:18px;padding:12px;border-radius:0px 0px 12px 12px;font-weight:bold;text-align:center;width:auto;margin-left:auto;margin-right:auto;margin-top:5px;" target="_blank">&nbsp;Check Now&nbsp;</a></div>   </div>
+ 
+ <h1 style="color:white;font-size:40px;margin-top:30px;"><strong>Find Us</strong></h1>  
+ <div style="background-color:#151519;border-radius:20px;padding:15px;">    
+ <p style="color:white;font-size:19px;">E-mail for direct contact: <a style="color:#00d5c7;" href="mailto:cgoutset@gmail.com" target="_blank">cgoutset@gmail.com</a></p>    
+ <p style="color:white;font-size:19px;">Website: <a style="color:#00d5c7;" href="https://cgoutset.com/">CGoutset.com</a></p>    
+ <p style="color:white;font-size:19px;">Discord Server: <a style="color:#00d5c7;" href="https://discord.gg/XGeDTUsmb4">Join</a></p>    
+ <p style="color:white;font-size:19px;">YouTube Channel: <a style="color:#00d5c7;" href="https://www.youtube.com/channel/UCoN-bg-O3ye4u3SIyKxf8Mg">YouTube CGoutset</a></p>  
+ </div>
+
+<div style="margin-top:80px;display:flex;flex-direction:column; justify-content:center; align-items:center;">
+<p style="font-size:30px;"><strong>VISIT</strong></p>
+<div><a onMouseOver="this.style.color='#00D5C7'"
+   onMouseOut="this.style.color='#FFF'" style="text-decoration:none;color:white;" href="https://CGoutset.com/"> <img src="https://yourimageshare.com/ib/EceLAmmrOk.webp"><span style="font-size:40px;">.com</span></a></div>
+
 </div>
 <div style="margin-bottom:20px;margin-top:10px;display:flex; justify-content:center; align-items:center;">
-<p>© Copyright 2023</p>
+<p>All rights reserved © Copyright 2023</p>
 </div>
-
+</div>
 <span style="color:transparent;
   border-bottom: 5px solid transparent;
   border-image: linear-gradient(to bottom right, #00D5C7 0% ,#01857c 100%);
